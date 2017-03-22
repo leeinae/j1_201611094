@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/headfirst/strategy/QuackBehavior.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:48:52">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyBehavior.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:18:29">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyRocketPowered.java" package="headfirst.strategy" timestamp="21-Mar-2017 15:42:24">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="13-Mar-2017 14:00:00">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="13-Mar-2017 14:28:16">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/Quack.java" package="headfirst.strategy" timestamp="22-Mar-2017 00:42:19">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/MiniDuckSimulator1.java" package="headfirst.strategy" timestamp="22-Mar-2017 00:57:03">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/MallardDuck.java" package="headfirst.strategy" timestamp="22-Mar-2017 21:40:36">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/FlyWithWings.java" package="headfirst.strategy" timestamp="22-Mar-2017 21:40:52">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/headfirst/strategy/Duck.java" package="headfirst.strategy" timestamp="22-Mar-2017 21:49:06">
+        <select from="86" to="86"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/aplu5.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

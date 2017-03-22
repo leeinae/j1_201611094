@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" build="classes/" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/com/sd/turtle/WeightTurtleMain.java" package="com.sd.turtle" timestamp="13-Mar-2017 14:28:16">
+        <select from="72" to="72"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="src/com/sd/turtle/WeightTurtle.java" package="com.sd.turtle" timestamp="13-Mar-2017 14:00:00">
+        <select from="72" to="72"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="j_201611094.drjava" package="" timestamp="13-Mar-2017 14:52:00">
+        <select from="72" to="72"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="lib/aplu5.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
