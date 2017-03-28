@@ -1,0 +1,8 @@
+package com.sd.sort.v1;
+
+public class Weight {
+  private int kilo;
+  public Weight(int k) {
+    kilo = l;
+  }
+}
