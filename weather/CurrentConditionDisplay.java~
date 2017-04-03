@@ -1,0 +1,10 @@
+package headfirst.observer.weather;
+
+public class CurrentConditionDisplay implements Observer, DisplayElement {
+  private float temperature;
+  private float humidity;
+  private float temperature;
+  public void update(float t, float h, float p) {
+    this.
+  }
+}

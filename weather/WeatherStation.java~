@@ -1,0 +1,9 @@
+package headfirst.observer.weather;
+
+public class WeatherStation {
+  public static void main(String[] args) {
+    WeatherData weatherdata = new WeatherData();
+    CurrentConditionDisplay currentDisplay = new CurrentConditionDisplay(weatherdata);
+    
+  }
+}
