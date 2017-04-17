@@ -1,0 +1,10 @@
+package headfirst.factory.pizzas;
+
+public class SimplePizzaFactory {
+  public Pizza cratePizza(String type) {
+    if(type =="cheese") {
+      return CheesePizza();
+    } //문자열비교때는 이렇게 하지마삼
+      
+  }
+}
